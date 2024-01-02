@@ -8,7 +8,7 @@ I am a web developer with 4 years of experience and can do many things related t
 
 * 🌍  I'm based in Zaria, Kaduna state Nigeria.
 * ✉️  You can contact me at [shafiu@3logy.net](mailto:shafiu@3logy.net)
-* 🧠  I'm learning Data Science
+* 🧠  I'm learning Arewa Data Science Machine Learning
 
 ### Skills
 
